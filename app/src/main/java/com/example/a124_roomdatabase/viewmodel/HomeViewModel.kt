@@ -1,6 +1,5 @@
 package com.example.a124_roomdatabase.viewmodel
 
-
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.a124_roomdatabase.repositori.RepositoriSiswa
